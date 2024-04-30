@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" type ="type/css" href="{{ url_for('static',filename='style.css') }}">
+    <title>Ceneo.pl Web Scraaper</title>
+</head>
+<body>
+    <header>
+        <h1>Ceneo.pl Web Scraaper</h1>
+    </header>
+    <section>
+        {% block content %}
+            <p>This is base file</p>
+        {% endblock %}
+    </section>
+    <footer>
+        <p>Sangheon Park, Krakow University of Economics</p>
+    </footer>
+</body>
+</html>
