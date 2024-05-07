@@ -1,4 +1,19 @@
 {% extends "base.html" %}
 {% block content %}
-    <p>This is extract file</p>
+    {%if error is defined %}
+    <div class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+        <strong>Error!</strong> {{error}}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    {% endif %}
+    <form class="container mt-3" method ="POST" action="{{url_for('extract')}}">
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label for="product_id" class="col-form-label">Product code</label>
+                <input type="text" name="product_id" class="form-control" id="product_id" placeholder="Enter product code here" required>
+                <span id="passwordHelpInline" class="form-text"> Must be 8-20 characters long. </span>
+                <button type="submit" class="btn btn-primary mb-3">Extract</button>
+            </div>
+        </div>
+    </form>
 {% endblock %}
