@@ -1,0 +1,26 @@
+{
+    "product_id": "153373072",
+    "product_name": "Google Chromecast 4.0 HD Smart Biały",
+    "opinions_count": 62,
+    "pros_count": 21,
+    "cons_count": 2,
+    "average_score": 4.774193548387097,
+    "score_distribution": {
+        "0.0": 0,
+        "0.5": 0,
+        "1.0": 0,
+        "1.5": 1,
+        "2.0": 0,
+        "2.5": 0,
+        "3.0": 0,
+        "3.5": 2,
+        "4.0": 4,
+        "4.5": 7,
+        "5.0": 48
+    },
+    "recommendation_distribution": {
+        "true": 59,
+        "false": 1,
+        "NaN": 0
+    }
+}

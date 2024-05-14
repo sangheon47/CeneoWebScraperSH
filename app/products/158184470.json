@@ -1,0 +1,26 @@
+{
+    "product_id": "158184470",
+    "product_name": "Konsola Sony PlayStation 5 D Chassis (Slim)",
+    "opinions_count": 34,
+    "pros_count": 12,
+    "cons_count": 2,
+    "average_score": 4.705882352941177,
+    "score_distribution": {
+        "0.0": 0,
+        "0.5": 0,
+        "1.0": 0,
+        "1.5": 0,
+        "2.0": 0,
+        "2.5": 0,
+        "3.0": 3,
+        "3.5": 1,
+        "4.0": 0,
+        "4.5": 5,
+        "5.0": 25
+    },
+    "recommendation_distribution": {
+        "true": 30,
+        "false": 0,
+        "NaN": 0
+    }
+}

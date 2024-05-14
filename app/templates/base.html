@@ -10,36 +10,13 @@
     <header>
         <h1>Ceneo.pl Web Scraper</h1>
         <div class="btn-group">
-            <nav>
+            <ul>
                 <li><a href = "{{url_for('index')}}"> Main page</a></li>
-                <li><a href = "{{url_for('extract')}}"> extract</a></li>
-                <li><a href = "{{url_for('products')}}"> products</a></li>
-                <li><a href = "{{url_for('author')}}"> author</a></li>
-            </nav>
+                <li><a href = "{{url_for('extract')}}"> extract opinions</a></li>
+                <li><a href = "{{url_for('products')}}"> List of products</a></li>
+                <li><a href = "{{url_for('author')}}"> About author</a></li>
+            </ul>
         </div>
-        <!-- <ul class="nav">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="{{url_for('index')}}">Main page</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{url_for('extract')}}">extract</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{url_for('products')}}">products</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{url_for('author')}}">author</a>
-            </li> -->
-            <!-- <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-            </li> -->
-        </ul>
-<!--      
-            <button type="button" class="btn btn-primary" onclick="location.href={{url_for('index')}}>index</button>
-            <button type="button" class="btn btn-primary" onclick="location.href={{url_for('extract')}}>extract</button>
-            <button type="button" class="btn btn-primary" onclick="location.href='products' ">products</button>
-            <button type="button" class="btn btn-primary" onclick="location.href='author' ">author</button> 
--->
     </header>
     <section>
         {% block content %}
