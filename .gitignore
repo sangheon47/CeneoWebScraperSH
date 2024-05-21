@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # app
-/app/opinions/
+# /app/opinions/

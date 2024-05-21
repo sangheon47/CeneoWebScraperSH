@@ -1,0 +1,1319 @@
+[
+    {
+        "opinion_id": "17763259",
+        "author": "l...x",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "W pełni funkcjonalny smart tv z intuicyjnym menu i opcją wyszukiwania głosowego, bez problemu współpracuje ze starszym telewizorem. Bez problemu można znaleźć i zainstalować przeglądarkę ***** i ma się wszystkie funkcjonalności. Przetestowałem nawet granie w chmurze, jako kontrolera używając pada od XBoxa po bluetooth i wszystko śmiga.",
+            "en": "A fully functional smart TV with an intuitive menu and voice search option, works easily with an older TV. You can easily find and install the ***** browser and have all the functionalities. I even tested playing in the cloud, using an XBox to Bluetooth pad as a controller and everything works fine."
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2023-08-02 07:11:16",
+        "purchase_date": "2023-07-02 16:35:58"
+    },
+    {
+        "opinion_id": "18443472",
+        "author": "d...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko Ok. Śmiga jak szalony w porównaniu do firesticka. Jedyna wada to to, ze się nie wyłącza razem z tv, tylko jest cały czas w trybie gotowości. Oczywiście jest możliwość wyłączenia, ale wtedy nie działa opcja wyłączenia tv z pilota chromecasta. Czyli albo tv albo chromecast, a mi bardziej zależy żeby pilot od chromecasta wyłączał tv.",
+            "en": "Everything's fine. It runs like crazy compared to the firestick. The only drawback is that it does not turn off with the TV, but is always in standby mode. Of course, it is possible to turn it off, but then the option to turn off the TV using the Chromecast remote control does not work. So either TV or Chromecast, and I care more about the Chromecast remote control turning off the TV."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-02-28 08:36:56",
+        "purchase_date": "2024-02-20 07:55:22"
+    },
+    {
+        "opinion_id": "18348160",
+        "author": "kosiarz22",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Za tą cenę w tym czasie jest ok, z tego co zauważyłem to jest jakiś moment, że dźwięk potrafi się na chwilę przyciszyć sam, ale za 15 sekund wraca do normalnego poziomu, ale może to komunikacja ze starym LG po HDMI coś szwankuje, ide oglądać dalej .",
+            "en": "For this price, it's ok at this time, from what I noticed, there is a moment when the sound can be turned down on its own for a moment, but after 15 seconds it returns to normal level, but maybe it's the communication with the old LG via HDMI, something is going wrong, I'm going to watch it next ."
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-29 22:22:40",
+        "purchase_date": "2024-01-08 20:35:39"
+    },
+    {
+        "opinion_id": "18270176",
+        "author": "c...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Kupiony przedmoot ma jeszcze wiecej aplikacji niż podobny kupiony w innym sklepie trzy miesiące wcześniej.\nWiem że mógłbym je sam zaintalować, ale w tym przypadku nie musiałem tego robić:-) Działały od razu\nPolecam",
+            "en": "The purchased item has even more applications than a similar one purchased in another store three months earlier.\nI know I could install them myself, but in this case I didn't have to do it :-) They worked immediately\nI recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2024-01-03 22:31:59",
+        "purchase_date": "2023-12-20 23:55:24"
+    },
+    {
+        "opinion_id": "18100008",
+        "author": "k...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Idealne rozwiązanie do odświeżenia starszych telewizorów, z zamulającym smartem lub bez niego. \nSam Chromecast działa bardzo dobrze, z pilota można obsługiwać podstawowe funkcje telewizora, pilot ergonomiczny.",
+            "en": "The perfect solution for refreshing older TVs, with or without a slow-moving smart phone.\nThe Chromecast itself works very well, you can use the remote control to operate the basic functions of the TV, the remote control is ergonomic."
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "functionality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2023-11-15 11:48:55",
+        "purchase_date": "2023-11-02 14:30:41"
+    },
+    {
+        "opinion_id": "18078567",
+        "author": "m...e",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Produkt dostarczony bez polskiej instrukcji. Język urządzenia automatycznie ustawiony na holenderski. Trzeba przejść całą instalację po holendersku żeby zmienić język na polski",
+            "en": "The product was delivered without Polish instructions. Device language automatically set to Dutch. You have to complete the entire installation in Dutch to change the language to Polish"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-08 15:19:50",
+        "purchase_date": "2023-11-04 11:00:35"
+    },
+    {
+        "opinion_id": "18288855",
+        "author": "b...a",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Póki co w fazie testów, instalacja bez większych problemów choć w pewnym momencie przeszłam na tryb pilota (a nie w aplikacji). Na razie wszystko działa bez zastrzeżeń.",
+            "en": "So far in the testing phase, installation without major problems, although at some point I switched to remote control mode (not in the application). For now, everything works without any problems."
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-10 10:21:35",
+        "purchase_date": "2024-01-07 20:23:54"
+    },
+    {
+        "opinion_id": "18510692",
+        "author": "p...b",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Zgodny z oczekiwaniem. Zamienił mój starszy telewizor w nowy. W końcu działają wszystkie aplikację :) Nie zacina  i nie zawiesza  się. Polecam",
+            "en": "Consistent with expectations. He turned my older TV into a new one. Finally, all applications work :) It does not jam or hang. I recommend"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-21 07:13:39",
+        "purchase_date": "2024-03-05 13:50:29"
+    },
+    {
+        "opinion_id": "17782561",
+        "author": "m...m",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super  przystawka. Działa bez zarzutu. Zakup oparłem na opiniach innych i niezawiodłem się. Gorąco polecam.",
+            "en": "Great appetizer. Works flawlessly. I based my purchase on the opinions of others and I was not disappointed. I would highly recommend."
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-08-08 09:18:28",
+        "purchase_date": "2023-06-26 22:51:27"
+    },
+    {
+        "opinion_id": "17514124",
+        "author": "g...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Mega polecam niezdecydowanym.\nStarszy TV zyskał nowe życie.\nWszystkie aplikacje chodzą naprawdę szybko.",
+            "en": "I highly recommend it to those who are undecided.\nOlder TV gained new life.\nAll applications run really fast."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-16 21:07:46",
+        "purchase_date": "2023-05-07 09:31:38"
+    },
+    {
+        "opinion_id": "17903553",
+        "author": "a...4",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Produkt super sprawdza się na starych tv bez Smitha lekki ładny design niema się do czego przyczepić",
+            "en": "The product works great on old TVs without Smith, light, nice design, nothing to complain about"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-09-15 07:33:47",
+        "purchase_date": "2023-09-14 12:00:47"
+    },
+    {
+        "opinion_id": "18072776",
+        "author": "Mariusz",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Mam tv Sony z androidem i nie widzę różnicy pomiędzy nim a chromecastem więc myślę że jest super.",
+            "en": "I have a Sony TV with Android and I don't see any difference between it and Chromecast, so I think it's great."
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "en": [
+                "functionality",
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use",
+                "appearance"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "dolby atmos",
+                "no refresh rate"
+            ],
+            "en": [
+                "dolby atmosphere",
+                "no refresh rate"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-07 08:32:55",
+        "purchase_date": "2023-11-02 16:50:15"
+    },
+    {
+        "opinion_id": "18599011",
+        "author": "Jarek",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Bardzo dobry intuicyjny szybki sprzęt ,\nbardzo małych rozmiarów,jest wszystko co potrzeba",
+            "en": "Very good, intuitive, fast equipment,\nvery small, has everything you need"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-24 08:08:36",
+        "purchase_date": "2024-04-14 16:38:24"
+    },
+    {
+        "opinion_id": "18325017",
+        "author": "Kolumb",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko super! działa bardzo dobrze, na chwile obecną nie ma problemów",
+            "en": "Everything's great! It works very well, no problems at the moment"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-22 10:29:08",
+        "purchase_date": "2024-01-14 11:20:52"
+    },
+    {
+        "opinion_id": "18476373",
+        "author": "m...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Działa bez zastrzeżeń, choć myślałem, że będzie miał większe możliwości",
+            "en": "It works without any problems, although I thought it would have greater capabilities"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-10 15:35:33",
+        "purchase_date": "2024-02-03 22:49:11"
+    },
+    {
+        "opinion_id": "18204799",
+        "author": "t...c",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Niezgodność towaru z opisiem. Ładowaka z przejściówką na eu.",
+            "en": "The goods do not match the description. Charger with EU adapter."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-13 12:09:11",
+        "purchase_date": "2023-11-24 22:25:05"
+    },
+    {
+        "opinion_id": "18526221",
+        "author": "r...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Krótki czas użytkowania na wystawienie opinie o produkcji",
+            "en": "Short time of use to issue opinions about production"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-26 14:07:47",
+        "purchase_date": "2024-03-08 13:45:28"
+    },
+    {
+        "opinion_id": "17540309",
+        "author": "b...d",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Potrafi ze starego tv zrobić super smart tv . Polecam",
+            "en": "He can turn an old TV into a super smart TV. I recommend"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-24 07:31:41",
+        "purchase_date": "2023-04-28 13:46:25"
+    },
+    {
+        "opinion_id": "18476739",
+        "author": "t...k",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Brak definiowania aplikacji na ekranie startowym",
+            "en": "No application definition on the start screen"
+        },
+        "pros": null,
+        "cons": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "functionality",
+                "ease of use"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-11 05:58:24",
+        "purchase_date": "2024-01-09 06:40:15"
+    },
+    {
+        "opinion_id": "18421542",
+        "author": "j...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko śmiga jak powinno. Zakup strzałem w 10!",
+            "en": "Everything works as it should. A 10-shot purchase!"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-21 14:54:34",
+        "purchase_date": "2024-02-16 11:16:25"
+    },
+    {
+        "opinion_id": "17692223",
+        "author": "t...s",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Wszystko działa i to odziwo całkiem nieźle",
+            "en": "Everything works and surprisingly quite well"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-10 17:02:37",
+        "purchase_date": "2023-07-05 20:02:42"
+    },
+    {
+        "opinion_id": "18544101",
+        "author": "f...l",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Towar nowy, działa jak powinienem",
+            "en": "New product, works as it should"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-03 08:16:03",
+        "purchase_date": "2024-03-15 19:46:34"
+    },
+    {
+        "opinion_id": "18445761",
+        "author": "u...l",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Działa jak natura chciała ;)",
+            "en": "It works as nature intended ;)"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-28 15:33:48",
+        "purchase_date": "2024-02-24 10:00:28"
+    },
+    {
+        "opinion_id": "18230190",
+        "author": "s...b",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Sprawdza się bardzo dobrze",
+            "en": "It works very well"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-20 15:18:33",
+        "purchase_date": "2023-12-18 11:36:00"
+    },
+    {
+        "opinion_id": "18470825",
+        "author": "Lucas",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "10/10 nic dodać nic ująć",
+            "en": "10/10 nothing more nothing less"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-07 15:35:05",
+        "purchase_date": "2024-03-01 15:30:34"
+    },
+    {
+        "opinion_id": "18354305",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobra przystawka.",
+            "en": "Very good appetizer."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-31 11:31:37",
+        "purchase_date": "2024-01-23 19:55:20"
+    },
+    {
+        "opinion_id": "18088799",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Produkt zgodny z opisem",
+            "en": "Product consistent with the description"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-11 12:03:34",
+        "purchase_date": "2023-11-08 11:45:25"
+    },
+    {
+        "opinion_id": "18082203",
+        "author": "s...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "towar zgodny z opisem.",
+            "en": "goods consistent with the description."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-09 11:37:58",
+        "purchase_date": "2023-10-31 13:30:38"
+    },
+    {
+        "opinion_id": "17732213",
+        "author": "m...b",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobry produkt",
+            "en": "Very good product"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-22 10:30:38",
+        "purchase_date": "2023-06-20 21:11:52"
+    },
+    {
+        "opinion_id": "17473904",
+        "author": "L...0",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Spełnia swoją rolę.",
+            "en": "It does its job."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-04 19:41:02",
+        "purchase_date": "2023-04-17 23:06:47"
+    },
+    {
+        "opinion_id": "18605879",
+        "author": "m...z",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Działa jak powinien",
+            "en": "Works as it should"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-25 21:58:22",
+        "purchase_date": "2024-04-04 18:46:06"
+    },
+    {
+        "opinion_id": "17540808",
+        "author": "Paweł",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Działa bez zarzutu.",
+            "en": "Works flawlessly."
+        },
+        "pros": {
+            "pl": [
+                "dolby atmos",
+                "funkcjonalność",
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi",
+                "no refresh rate",
+                "wygląd"
+            ],
+            "en": [
+                "dolby atmosphere",
+                "functionality",
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use",
+                "no refresh rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-24 09:33:23",
+        "purchase_date": "2023-05-17 09:48:56"
+    },
+    {
+        "opinion_id": "18470027",
+        "author": "linux33",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Doskonała jakość",
+            "en": "Excellent quality"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-07 10:54:13",
+        "purchase_date": "2024-02-21 00:40:34"
+    },
+    {
+        "opinion_id": "18271185",
+        "author": "j...t",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Działa prawidłowo",
+            "en": "Works properly"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "en": [
+                "functionality",
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-04 08:44:26",
+        "purchase_date": "2023-12-29 17:39:33"
+    },
+    {
+        "opinion_id": "18150722",
+        "author": "m...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "dobre urządzenie",
+            "en": "good device"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-29 10:26:34",
+        "purchase_date": "2023-11-28 16:00:44"
+    },
+    {
+        "opinion_id": "18572196",
+        "author": "b...3",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Zawiesza się.",
+            "en": "It freezes."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-14 17:51:29",
+        "purchase_date": "2024-04-04 20:25:21"
+    },
+    {
+        "opinion_id": "18524144",
+        "author": "Jerzy",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobry",
+            "en": "Very good"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-26 08:09:17",
+        "purchase_date": "2024-03-22 18:45:28"
+    },
+    {
+        "opinion_id": "18321386",
+        "author": "k...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Intuicyjny",
+            "en": "Intuitive"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-19 19:32:15",
+        "purchase_date": "2023-12-29 10:42:24"
+    },
+    {
+        "opinion_id": "18229722",
+        "author": "a...e",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "niezawodny",
+            "en": "reliable"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-20 12:56:38",
+        "purchase_date": "2023-12-18 15:12:33"
+    },
+    {
+        "opinion_id": "17601073",
+        "author": "z...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jest super",
+            "en": "Is great"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-06-12 10:17:43",
+        "purchase_date": "2023-06-11 10:30:29"
+    },
+    {
+        "opinion_id": "17956531",
+        "author": "z...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-10-01 19:21:01",
+        "purchase_date": "2023-09-01 15:00:34"
+    },
+    {
+        "opinion_id": "18541042",
+        "author": "s...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-02 09:17:53",
+        "purchase_date": "2024-03-17 14:17:02"
+    },
+    {
+        "opinion_id": "18466205",
+        "author": "m...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-06 11:27:34",
+        "purchase_date": "2024-03-01 15:15:26"
+    },
+    {
+        "opinion_id": "18333617",
+        "author": "a...t",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-24 13:09:31",
+        "purchase_date": "2024-01-07 16:36:58"
+    },
+    {
+        "opinion_id": "18142442",
+        "author": "a...z",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "jest ok",
+            "en": "It's ok"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-27 13:39:47",
+        "purchase_date": "2023-11-24 14:00:47"
+    },
+    {
+        "opinion_id": "18630971",
+        "author": "k...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-08 07:38:00",
+        "purchase_date": "2024-04-19 21:05:24"
+    },
+    {
+        "opinion_id": "18548395",
+        "author": "lukaszko5",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-04 09:07:23",
+        "purchase_date": "2024-03-20 20:50:46"
+    },
+    {
+        "opinion_id": "18433385",
+        "author": "5...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-24 18:38:39",
+        "purchase_date": "2024-02-21 16:30:22"
+    },
+    {
+        "opinion_id": "18265289",
+        "author": "m...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "super",
+            "en": "cool"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-02 21:11:22",
+        "purchase_date": "2023-12-26 16:17:44"
+    },
+    {
+        "opinion_id": "17757018",
+        "author": "o...e",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-31 08:51:02",
+        "purchase_date": "2023-07-01 17:54:45"
+    },
+    {
+        "opinion_id": "17563840",
+        "author": "e...0",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "SUPER",
+            "en": "COOL"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-30 21:44:34",
+        "purchase_date": "2023-05-16 19:17:01"
+    },
+    {
+        "opinion_id": "18299568",
+        "author": "jk1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok.",
+            "en": "Approx."
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "en": [
+                "functionality",
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-12 22:40:50",
+        "purchase_date": "2024-01-02 19:29:44"
+    },
+    {
+        "opinion_id": "18262953",
+        "author": "k...2",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-02 09:16:24",
+        "purchase_date": "2023-12-16 13:19:27"
+    },
+    {
+        "opinion_id": "17670006",
+        "author": "t...3",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "...",
+            "en": null
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-03 12:10:55",
+        "purchase_date": "2023-06-01 07:15:12"
+    },
+    {
+        "opinion_id": "18659150",
+        "author": "Grzegorz",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-20 07:56:16",
+        "purchase_date": "2024-05-11 16:45:22"
+    },
+    {
+        "opinion_id": "18615589",
+        "author": "b...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-30 14:23:55",
+        "purchase_date": "2024-04-18 12:33:03"
+    },
+    {
+        "opinion_id": "18580650",
+        "author": "a...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "👍",
+            "en": null
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-17 09:59:47",
+        "purchase_date": "2024-04-05 08:24:06"
+    },
+    {
+        "opinion_id": "18562945",
+        "author": "l...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-10 11:44:02",
+        "purchase_date": "2024-04-04 16:18:36"
+    },
+    {
+        "opinion_id": "18265876",
+        "author": "e...7",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-03 08:02:58",
+        "purchase_date": "2023-12-28 16:59:27"
+    },
+    {
+        "opinion_id": "18078418",
+        "author": "a...4",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-08 14:20:41",
+        "purchase_date": "2023-11-03 10:50:26"
+    },
+    {
+        "opinion_id": "17752802",
+        "author": "m...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-28 12:51:34",
+        "purchase_date": "2023-06-22 13:33:22"
+    },
+    {
+        "opinion_id": "17676228",
+        "author": "k...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": {
+            "pl": [
+                "jakość dźwięku",
+                "jakość obrazu",
+                "jakość wykonania",
+                "łatwość obsługi"
+            ],
+            "en": [
+                "sound quality",
+                "image quality",
+                "production quality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-05 09:29:06",
+        "purchase_date": "2023-06-05 13:20:32"
+    },
+    {
+        "opinion_id": "17722645",
+        "author": "2...4",
+        "recommendation": false,
+        "score": 0.3,
+        "content": {
+            "pl": "Działa tylko w języku skandynawskim. Po aktualizacji nie ładuje się",
+            "en": "Only works in Scandinavian. After updating it does not load"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-19 21:10:14",
+        "purchase_date": "2023-07-11 19:30:33"
+    }
+]

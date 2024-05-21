@@ -1,0 +1,762 @@
+[
+    {
+        "opinion_id": "18649212",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Mniejsza wersja klasycznej PS5, chodzi cichutko, szybko i tak jak zakładał producent. Na minus to brak podstawki w zestawie i te śmieszne plastiki podtrzymujące konsolę w poziomie.",
+            "en": "A smaller version of the classic PS5, it runs quietly, quickly and as expected by the manufacturer. The disadvantages are the lack of a stand in the set and those funny plastics that support the console horizontally."
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości",
+                "szybkość"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities",
+                "speed"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-15 09:19:38",
+        "purchase_date": "2024-05-05 10:44:11"
+    },
+    {
+        "opinion_id": "18399383",
+        "author": "T...z",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jak na najnowszy model to w porównaniu z PS4 jest dużo większa, myślę że i o wiele wydajniejsza. Jak na razie wszystko działa czas pokaże jak będzie dalej się sprawować",
+            "en": "For the newest model, compared to PS4 it is much larger, and I think much more efficient. So far everything is working, time will tell how it will continue to work"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 2,
+        "publish_date": "2024-02-14 19:34:48",
+        "purchase_date": "2024-02-01 17:51:20"
+    },
+    {
+        "opinion_id": "18621214",
+        "author": "a...x",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Pierwsza konsola zawsze był PC ale już się zaraziłem. Pady fajne wibracje i dźwięk.Do szybkich strzelanek pewnie nie za bardzo ale do rezident evil ok....",
+            "en": "The first console was always the PC, but I was already hooked. The pads have nice vibrations and sound. Probably not so much for fast shooting games, but ok for resident evil...."
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-03 09:19:37",
+        "purchase_date": "2024-04-18 19:24:25"
+    },
+    {
+        "opinion_id": "18657874",
+        "author": "c...s",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Przesiadka z PS4 Pro warta każdej złotówki. Chodzi jak złoto, czytnik działa bez najmniejszego problemu",
+            "en": "Switching from PS4 Pro is worth every penny. It works like gold, the reader works without any problems"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-18 10:30:02",
+        "purchase_date": "2024-05-06 15:30:26"
+    },
+    {
+        "opinion_id": "18240999",
+        "author": "p...e",
+        "recommendation": null,
+        "score": 0.6,
+        "content": {
+            "pl": "Narazie daje tylko trzy gwiazdki. Szybko się nagrzewa. Zdarza się problem z włączeniem konsoli controllerem dual shock.  Plusem jest że jest dużo mniejsza i lżejsza oraz ma  większą pamięć",
+            "en": "For now it only gives three stars. Heats up quickly. There is a problem with turning on the console with the dual shock controller. The advantage is that it is much smaller and lighter and has larger memory"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 3,
+        "unhelpful": 4,
+        "publish_date": "2023-12-25 06:43:04",
+        "purchase_date": "2023-12-17 16:30:38"
+    },
+    {
+        "opinion_id": "18326643",
+        "author": "a...0",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Dobrze wykonana ale mimo, że slim to jednak nadal kawał sprzętu.",
+            "en": "Well made, but even though it's slim, it's still a piece of equipment."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 1,
+        "publish_date": "2024-01-22 20:37:58",
+        "purchase_date": "2024-01-05 17:00:35"
+    },
+    {
+        "opinion_id": "18325010",
+        "author": "j...0",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Konsolka godna polecenia, lecz momentami bardzo głośna",
+            "en": "The console is worth recommending, but at times very noisy"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2024-01-22 10:27:57",
+        "purchase_date": "2024-01-14 17:00:36"
+    },
+    {
+        "opinion_id": "18221136",
+        "author": "m...4",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Zadowolony z zakupu, dobra cena i dodatki",
+            "en": "Satisfied with the purchase, good price and accessories"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 1,
+        "publish_date": "2023-12-18 12:53:07",
+        "purchase_date": "2023-12-08 11:00:43"
+    },
+    {
+        "opinion_id": "18457494",
+        "author": "m...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko zgodnie z opisem. Zero problemów",
+            "en": "Everything as described. Zero problems"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2024-03-04 08:33:45",
+        "purchase_date": "2024-02-14 17:08:34"
+    },
+    {
+        "opinion_id": "18393376",
+        "author": "p...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jestem bardzo zadowolony ze kupiłem te konsolę",
+            "en": "I am very happy that I bought this console"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2024-02-13 09:49:47",
+        "purchase_date": "2023-12-21 15:55:22"
+    },
+    {
+        "opinion_id": "18640514",
+        "author": "f...u",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Na ten moment najlepsza konsola",
+            "en": "The best console at the moment"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-11 15:44:44",
+        "purchase_date": "2024-05-05 12:37:34"
+    },
+    {
+        "opinion_id": "18477614",
+        "author": "a...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko zgodne z zamówieniem:)",
+            "en": "Everything as ordered :)"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-11 08:39:45",
+        "purchase_date": "2024-03-06 18:54:48"
+    },
+    {
+        "opinion_id": "18180939",
+        "author": "i...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko superb",
+            "en": "Everything was great"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 1,
+        "publish_date": "2023-12-06 20:25:00",
+        "purchase_date": "2023-12-03 11:15:27"
+    },
+    {
+        "opinion_id": "18309472",
+        "author": "p...0",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Bardzo dobra i solidna konsola.",
+            "en": "A very good and solid console."
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-17 08:19:49",
+        "purchase_date": "2024-01-16 10:00:34"
+    },
+    {
+        "opinion_id": "18600302",
+        "author": "h...e",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Dobrej jakości.",
+            "en": "Good quality."
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "possibilities"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "jakość"
+            ],
+            "en": [
+                "quality"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-24 10:22:07",
+        "purchase_date": "2024-04-12 16:28:35"
+    },
+    {
+        "opinion_id": "18302805",
+        "author": "d...0",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Hhh",
+            "en": "Hhhh"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2024-01-15 10:28:35",
+        "purchase_date": "2024-01-14 13:00:34"
+    },
+    {
+        "opinion_id": "18238618",
+        "author": "j...o",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super! Many fancy games",
+            "en": "Cool! Many fancy games"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-22 15:36:45",
+        "purchase_date": "2023-12-20 15:00:46"
+    },
+    {
+        "opinion_id": "18216178",
+        "author": "k...9",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Sprzęt super",
+            "en": "The equipment is great"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-15 19:48:02",
+        "purchase_date": "2023-12-14 15:00:37"
+    },
+    {
+        "opinion_id": "18190603",
+        "author": "e...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "wszystko ok.",
+            "en": "Everything's fine."
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-08 16:34:44",
+        "purchase_date": "2023-12-05 17:00:42"
+    },
+    {
+        "opinion_id": "18634749",
+        "author": "d...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko ok",
+            "en": "Everything's fine"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-09 09:00:22",
+        "purchase_date": "2024-05-02 11:47:45"
+    },
+    {
+        "opinion_id": "18303168",
+        "author": "h...i",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Taki jak oczekiwałem",
+            "en": "Just as I expected"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-15 11:38:09",
+        "purchase_date": "2024-01-12 13:30:40"
+    },
+    {
+        "opinion_id": "18631399",
+        "author": "p...p",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-08 08:36:23",
+        "purchase_date": "2024-05-02 17:26:12"
+    },
+    {
+        "opinion_id": "18440828",
+        "author": "p...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam.",
+            "en": "I recommend."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-27 12:29:50",
+        "purchase_date": "2024-02-18 18:59:10"
+    },
+    {
+        "opinion_id": "18224169",
+        "author": "s...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Najlepsza konsola",
+            "en": "The best console"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2023-12-19 10:03:31",
+        "purchase_date": "2023-12-02 17:01:46"
+    },
+    {
+        "opinion_id": "18654594",
+        "author": "d...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Działa",
+            "en": "Works"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "jakość",
+                "możliwości",
+                "szybkość"
+            ],
+            "en": [
+                "playability",
+                "quality",
+                "possibilities",
+                "speed"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-16 21:37:15",
+        "purchase_date": "2024-04-27 13:05:25"
+    },
+    {
+        "opinion_id": "18624883",
+        "author": "a...0",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-06 09:09:00",
+        "purchase_date": "2024-04-15 09:07:21"
+    },
+    {
+        "opinion_id": "18571750",
+        "author": "a...y",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-13 22:25:30",
+        "purchase_date": "2024-04-11 10:31:10"
+    },
+    {
+        "opinion_id": "18275464",
+        "author": "k...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jest Ok",
+            "en": "It's ok"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-05 08:10:54",
+        "purchase_date": "2023-12-21 14:30:41"
+    },
+    {
+        "opinion_id": "18294413",
+        "author": "r...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-11 14:46:39",
+        "purchase_date": "2024-01-10 07:30:32"
+    },
+    {
+        "opinion_id": "18272255",
+        "author": "m...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-04 10:23:39",
+        "purchase_date": "2023-12-20 07:30:49"
+    },
+    {
+        "opinion_id": "18213302",
+        "author": "r...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ideal",
+            "en": "Ideal"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-15 09:28:35",
+        "purchase_date": "2023-12-14 14:00:35"
+    },
+    {
+        "opinion_id": "18208956",
+        "author": "y...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-14 10:03:14",
+        "purchase_date": "2023-12-13 15:30:36"
+    },
+    {
+        "opinion_id": "18213392",
+        "author": "l...9",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-15 09:34:15",
+        "purchase_date": "2023-12-07 19:00:43"
+    },
+    {
+        "opinion_id": "18202907",
+        "author": "m...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-13 09:03:49",
+        "purchase_date": "2023-12-12 12:30:40"
+    },
+    {
+        "opinion_id": "18196419",
+        "author": "k...l",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2023-12-11 15:03:20",
+        "purchase_date": "2023-12-09 16:30:43"
+    },
+    {
+        "opinion_id": "18583863",
+        "author": "o...2",
+        "recommendation": null,
+        "score": 0.6,
+        "content": {
+            "pl": "Ciężko ocenić dopiero z czasem się okaże.",
+            "en": "It's hard to judge, only time will tell."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-18 08:37:17",
+        "purchase_date": "2024-04-13 14:06:59"
+    },
+    {
+        "opinion_id": "18232735",
+        "author": "n...a",
+        "recommendation": null,
+        "score": 0.6,
+        "content": {
+            "pl": "Uszkodzony",
+            "en": "Damaged"
+        },
+        "pros": {
+            "pl": [
+                "grywalność",
+                "możliwości"
+            ],
+            "en": [
+                "playability",
+                "possibilities"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "jakość"
+            ],
+            "en": [
+                "quality"
+            ]
+        },
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2023-12-21 09:32:18",
+        "purchase_date": "2023-12-06 21:00:38"
+    }
+]

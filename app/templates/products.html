@@ -1,6 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
+    <div class="row row-cols-1 row-cols-md-3 g-4">
     {% for product in products %}
-        <div class="card"> {{product}} </div>
+        <div class="col">
+            <div class="card h-100" style="width: 18rem;">
+                <div class="card-header">
+                    {{product.product_name}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{product.product_name}}</h5>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">Product_ID : {{product.product_id}}</h6>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <a href="{{url_for('download_json', product_id = product.product_id)}}" class="card-link">json</a>
+                    <a href="{{url_for('download_csv', product_id = product.product_id)}}" class="card-link">csv</a>
+                    <a href="{{url_for('download_xlsx', product_id = product.product_id)}}" class="card-link">xlsx</a>
+                </div>
+            </div>
+        </div>
     {% endfor %}
 {% endblock %}

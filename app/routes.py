@@ -1,14 +1,16 @@
 from app import app
 from app import utils
-from flask import render_template, request, redirect, url_for
+from flask import render_template, request, redirect, url_for, send_file
 import requests
 import os
 import json
 import pandas as pd
 import numpy as np
+from io import BytesIO
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt 
 import matplotlib
+import xlsxwriter
 matplotlib.use('Agg')
 
 @app.route('/')
@@ -120,3 +122,24 @@ def author():
 @app.route('/product/<product_id>')
 def product(product_id):
     return render_template("product.html", product_id = product_id)
+
+@app.route('/download/json/<product_id>')
+def download_json(product_id):
+    return send_file(f"opinions/{product_id}.json", mimetype='text/json', download_name =f'{product_id}.json', as_attachment=True)
+
+@app.route('/download/csv/<product_id>')
+def download_csv(product_id):
+    opinions = pd.read_json(f"app/opinions/{product_id}.json")
+    # content_pl, content_en =opinions['content'].apply(pd.Series)
+    # pd.concat
+    response_stream = BytesIO(opinions.to_csv().encode())
+    return send_file(response_stream, mimetype='text/csv', download_name =f'{product_id}.csv', as_attachment=True)
+
+@app.route('/download/xlsx/<product_id>')
+def download_xlsx(product_id):
+    opinions = pd.read_json(f"app/opinions/{product_id}.json")
+    buffer = BytesIO()
+    with pd.ExcelWriter(buffer) as writer:
+        opinions.to_excel(writer)
+    buffer.seek(0)
+    return send_file(buffer, mimetype='application/vnd.ms-excel', download_name =f'{product_id}.xlsx', as_attachment=True)

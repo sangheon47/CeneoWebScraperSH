@@ -1,0 +1,57 @@
+[
+    {
+        "opinion_id": "17577959",
+        "author": "l...9",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-06-03 09:43:41",
+        "purchase_date": "2023-05-15 13:56:48"
+    },
+    {
+        "opinion_id": "18597766",
+        "author": "a...c",
+        "recommendation": false,
+        "score": 0.2,
+        "content": {
+            "pl": "Badziewie",
+            "en": "Crap"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-23 16:43:33",
+        "purchase_date": "2024-04-03 19:40:43"
+    },
+    {
+        "opinion_id": "18102995",
+        "author": "Użytkownik Ceneo",
+        "recommendation": false,
+        "score": 0.1,
+        "content": {
+            "pl": "Lipa",
+            "en": "Lime tree"
+        },
+        "pros": null,
+        "cons": {
+            "pl": [
+                "jakość"
+            ],
+            "en": [
+                "quality"
+            ]
+        },
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2023-11-16 07:00:45",
+        "purchase_date": null
+    }
+]
