@@ -1,4 +1,20 @@
 {% extends "base.html" %}
 {% block content %}
     <p>This is {{product_id}} file</p>
+    <div class="card-footer">
+        <a href="{{url_for('download_json', product_id = product_id)}}" class="card-link">json</a>
+        <a href="{{url_for('download_csv', product_id = product_id)}}" class="card-link">csv</a>
+        <a href="{{url_for('download_xlsx', product_id = product_id)}}" class="card-link">xlsx</a>
+    </div>
+    <p> This is {{product_id}} product charts file</p>
+    <a type = "button" class="btn btn-outline-dark" href="{{url_for('product', product_id = product_id)}}">Opinions</a>
+    {{opinions|safe}}
+{% endblock %}
+
+{% block scripts %}
+<script>
+    let table = new DataTable('#opinions', {
+    responsive: true
+});
+</script>
 {% endblock %}

@@ -4,11 +4,10 @@
     {% for product in products %}
         <div class="col">
             <div class="card h-100" style="width: 18rem;">
-                <div class="card-header">
-                    {{product.product_name}}
+                <div class="card-header"><a href="{{url_for('product', product_id=product.product_id)}}" class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
+                    {{product.product_name}}</a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">{{product.product_name}}</h5>
                     <h6 class="card-subtitle mb-2 text-body-secondary">Product_ID : {{product.product_id}}</h6>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
