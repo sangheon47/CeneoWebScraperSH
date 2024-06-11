@@ -10,9 +10,11 @@
                 <div class="card-body">
                     <h6 class="card-subtitle mb-2 text-body-secondary">Product_ID : {{product.product_id}}</h6>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">An item</li>
-                        <li class="list-group-item">A second item</li>
-                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">opinions: {{product.opinions_count}}   </li>
+                        <li class="list-group-item">Average: {{product.average_score}} </li>
+                        <li class="list-group-item">Advantages : {{product.pros_count}} </li>
+                        <li class="list-group-item">Disadvantages : {{product.cons_count}} </li>
+                        <li class="list-group-item">Recommendation Distribution: {{product.recommendation_distribution}} </li>
                     </ul>
                 </div>
                 <div class="card-footer">
